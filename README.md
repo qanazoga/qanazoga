@@ -1,2 +1,1 @@
-I changed my username, I'm @paigedotgay now
-https://github.com/paigedotgay
+I changed my username, go to https://github.com/paigedotgay
